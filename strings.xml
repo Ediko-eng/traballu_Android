@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">OINSA ATU SAI MILIONARIU</string>
+
+    <!-- Menu -->
+    <string name="menu_hahu_game">Hahú Jogu</string>
+    <string name="menu_kona_ba_game">Kona-ba Jogu</string>
+    <string name="menu_how_to_be_millionaire">Oinsá Atu Sai Milionáriu?</string>
+    <string name="menu_high_scores">Score As-Liu</string>
+
+    <!-- Common -->
+    <string name="back_reduzir">Fila Fali</string>
+    <string name="game_over">Jogu Temina!</string>
+
+    <!-- About screen -->
+    <string name="about_title">Kona-ba Jogu</string>
+    <string name="about_content">"Oinsá Atu Sai Milionáriu mak jogu edukativu ida ne'ebé testa ita-nia koñesimentu jerál ho pergunta oioin.
+
+Oinsá Jogu ne'e funsiona:
+1. Pergunta 15: Ita presiza hatán pergunta 15 ho loloos hodi manán prémiu boot $1,000,000.
+2. Tempu: Ita iha de'it segundu 30 hodi hanoin no hili resposta ba pergunta ida-idak.
+3. Eskolla/hili Resposta: Se ita hatán sala, jogu remata no ita lakon osan hotu ne'ebé seidauk rai.
+
+Fasilidade Ajuda (Lifelines):
+Ita bele uza ajuda sira ne'e dala ida de'it iha jogu laran:
+• 50:50 - Hasai tiha resposta sala rua husi hili-fatin 4.
+• Audiénsia - Haree rezultadu votasaun husi públiku ba resposta ne'ebé loos.
+• Kolega (Husu) - Hetan sugestaun ka 'hint' husi kolega kona-ba resposta loos.
+
+Funsionamentu Seluk:
+• Desizaun: Bainhira ita hatán loos pergunta ida, ita bele hili atu Para hodi rai osan ne'ebé manán ona, maibe ita mos bele hili kontinua Kontinua hodi arriska ita nia osan ba nível tuirma, wainhira ita kontinua no eskolla sala ita sei lakon hotu osan ne'ebe ita hetan, maibe wainhira ita resopsta perguntas sira ne'e ho loos hotu ita sei manan jogu ne'e!!!
+• Score As-Liu: Rai ita-nia naran no rezultadu di'ak liu hotu iha tabela High Score.
+• Rejista no Login: Kria ita-nia konta hodi rai ita-nia istóriku jogu."</string>
+
+    <!-- Rules screen -->
+    <string name="rules_title">Regra Jogu</string>
+    <string name="rules_content">1. Ita sei hetan pergunta 15.\n2. Lifeline 50-50, Audiensia, no Husu bele uza dala ida de’it.\n3. Tempu ba pergunta ida mak segundu 30.\n4. Se hatán sala, ita lakon osan hotu.\n5. Responde loloos ba pergunta ikus, ita manan $1,000,000.</string>
+
+    <!-- Game screen (will be expanded) -->
+    <string name="timer_label">Tempu</string>
+    <string name="lifeline_5050">50-50</string>
+    <string name="lifeline_audiencia">Audiénsia</string>
+    <string name="lifeline_husu">Husu</string>
+    <string name="current_prize">Prémiu Total</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_no_account">Seidauk iha konta? Rejista iha ne\'e</string>
+    <string name="login_failed">Login la susesu</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Rejista</string>
+    <string name="register_name_label">Naran Kompletu</string>
+    <string name="register_age_label">Idade</string>
+    <string name="register_gender_label">Jéneru</string>
+    <string name="register_email_label">Email</string>
+    <string name="register_password_label">Password</string>
+    <string name="register_button">Rejista Agora</string>
+    <string name="register_have_account">Iha ona konta? Login iha ne\'e</string>
+    <string name="register_success">Rejista susesu!</string>
+    <string name="register_failed">Rejista la susesu</string>
+
+    <!-- Win screen -->
+    <string name="win_congratulations">Parabéns!</string>
+    <string name="win_ita_manan">Ita Manan!</string>
+    <string name="win_total_prize">Prémiu Total:</string>
+    <string name="win_dollars_prefix">$</string>
+    <string name="win_new_game">Fila ba Menu</string>
+</resources>
